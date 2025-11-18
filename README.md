@@ -130,15 +130,5 @@ MIT License
 ## 👤 Author
 
 **Rajesh S**
-UVM Verification Engineer
+Design Verification Engineer
 
----
-
-If you want, I can also generate:
-
-✔ `vplan.pdf`
-✔ `testcase_matrix.xlsx`
-✔ Block diagram PNG
-✔ GitHub tags + version numbering
-
-Just say **"generate now"**.
